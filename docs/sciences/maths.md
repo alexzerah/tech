@@ -40,7 +40,3 @@ $ \mathbb{Q} = \left\{ \frac{a}{b} \mid a \in \mathbb{Z}, b \in \mathbb{N} \righ
 ## Optimisation
 
 ## Cryptographie
-
-
-
-ss
