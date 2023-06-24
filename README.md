@@ -1,5 +1,63 @@
 # Tech
 
+- [Tech](#tech)
+  - [Autres](#autres)
+  - [Nouveaux usages](#nouveaux-usages)
+  - [Ordinateur](#ordinateur)
+  - [Programmation](#programmation)
+    - [Algorithmes](#algorithmes)
+    - [Patrons de conception](#patrons-de-conception)
+    - [Principes de programmation](#principes-de-programmation)
+    - [Paradigmes de programmation](#paradigmes-de-programmation)
+    - [Eléments](#eléments)
+    - [Stratégie](#stratégie)
+    - [Architecture](#architecture)
+  - [Ligne de commande](#ligne-de-commande)
+    - [Git](#git)
+  - [Web3 et blockchain](#web3-et-blockchain)
+  - [IA](#ia)
+  - [Moteur de recherche](#moteur-de-recherche)
+  - [Protocoles et réseaux](#protocoles-et-réseaux)
+    - [Seedbox Automatisation torrent](#seedbox-automatisation-torrent)
+    - [Base de données](#base-de-données)
+  - [Formats](#formats)
+  - [Outils](#outils)
+    - [Arc](#arc)
+    - [Hyper](#hyper)
+  - [Hardware](#hardware)
+  - [Multimédia](#multimédia)
+  - [Codecs](#codecs)
+    - [Audio Unit](#audio-unit)
+    - [Core Audio](#core-audio)
+  - [No code / Low code](#no-code--low-code)
+  - [Frontend](#frontend)
+    - [Frameworks](#frameworks)
+      - [React](#react)
+      - [Next.js](#nextjs)
+      - [Remix](#remix)
+      - [Vue](#vue)
+      - [Astro](#astro)
+      - [Qwik](#qwik)
+      - [Svelte + SvelteKit](#svelte--sveltekit)
+    - [Documentation](#documentation)
+    - [Ecosystème JS](#ecosystème-js)
+      - [Node](#node)
+    - [CSS](#css)
+    - [Creative coding](#creative-coding)
+    - [JAMStack](#jamstack)
+  - [Backend](#backend)
+  - [Mobile](#mobile)
+  - [IOT](#iot)
+  - [Cloud](#cloud)
+  - [EDU](#edu)
+    - [EDU - Présentation](#edu---présentation)
+    - [EDU - Documentation](#edu---documentation)
+  - [Audio](#audio)
+  - [Video](#video)
+  - [Graphisme](#graphisme)
+  - [Présentation](#présentation)
+
+
 ## Autres
 
 ## Nouveaux usages
@@ -151,7 +209,7 @@
 
 ## Formats
 
-- Mardown
+- Markdown
 - YAML
 - json
 - XML
