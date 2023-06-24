@@ -12,7 +12,8 @@
     - [Eléments](#eléments)
     - [Stratégie](#stratégie)
     - [Architecture](#architecture)
-  - [Ligne de commande](#ligne-de-commande)
+    - [terminal](#terminal)
+    - [IDE](#ide)
     - [Git](#git)
   - [Web3 et blockchain](#web3-et-blockchain)
   - [IA](#ia)
@@ -129,15 +130,18 @@
 - Architecture logicielle
 - Architecture matérielle
 
-## Ligne de commande
+### terminal
 
-- Vim
-- Emacs
-- Hyper
 - Bash
 - zsh
 - oh my zsh
-- VSCode
+- Hyper
+
+### IDE
+
+- Vim
+- Emacs
+- [VSCode](/docs/outils/IDE/vscode.md)
 - Jetbrains IDE
 
 ### Git
