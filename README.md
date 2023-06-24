@@ -209,7 +209,7 @@
 
 ## Formats
 
-- Markdown
+- [Markdown](/docs/formats/markdown.md)
 - YAML
 - json
 - XML
