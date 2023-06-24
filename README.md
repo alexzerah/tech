@@ -57,7 +57,6 @@
   - [Graphisme](#graphisme)
   - [Présentation](#présentation)
 
-
 ## Autres
 
 ## Nouveaux usages
