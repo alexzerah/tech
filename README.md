@@ -1,8 +1,11 @@
 # Tech
 
 - [Tech](#tech)
+  - [Se former](#se-former)
   - [Autres](#autres)
   - [Nouveaux usages](#nouveaux-usages)
+  - [Actualités](#actualités)
+    - [récentes](#récentes)
   - [Ordinateur](#ordinateur)
   - [Programmation](#programmation)
     - [Algorithmes](#algorithmes)
@@ -15,6 +18,7 @@
     - [terminal](#terminal)
     - [IDE](#ide)
     - [Git](#git)
+  - [Serveurs](#serveurs)
   - [Web3 et blockchain](#web3-et-blockchain)
   - [IA](#ia)
   - [Moteur de recherche](#moteur-de-recherche)
@@ -36,6 +40,7 @@
       - [React](#react)
       - [Next.js](#nextjs)
       - [Remix](#remix)
+    - [Preact](#preact)
       - [Vue](#vue)
       - [Astro](#astro)
       - [Qwik](#qwik)
@@ -53,42 +58,90 @@
   - [EDU](#edu)
     - [EDU - Présentation](#edu---présentation)
     - [EDU - Documentation](#edu---documentation)
+  - [MacOS](#macos)
   - [Audio](#audio)
   - [Video](#video)
   - [Graphisme](#graphisme)
   - [Présentation](#présentation)
 
+## Se former
+
+- [Comment se former](/docs/se-former/comment-se-former.md)
+
 ## Autres
+
+- bcrypt
+- jwt
+- passport
+- Licences (MIT, Apache, GPL, LGPL, BSD, CC, WTFPL, Unlicense)
+- Pages man
+- puppeteer
+- tests unitaires
+- tests d'intégration
+- tests fonctionnels
+- Jest
+- Mocha
+- Cypress
+- Castor
+- Sequelize
+- DX
+- webp
+- JPEG 2000 / JPEG XL
+- shopify cli
+- Plasma
+- WiFi
+- WebRTC
+- Bluetooth
+- WebAssembly
+- WebGPU
+- IEEE
+  - LAN
+  - Ethernet
+  - Bluetooth
+  - ZigBee
+  - WiMax
+  - WiFi
 
 ## Nouveaux usages
 
 - Informatique quantique
 - Stockage de données dans l'ADN
 
+## Actualités
+
+### récentes
+
+- Popularisation de [ChatGPT]([https://](https://chat.openai.com/)) et [Midjourney](https://www.midjourney.com/).
+- [Twitter](https://twitter.com/) est racheté et devient X.
+- Apple annonce Vision Pro
+- iPhone 15 pro Max Titanium
+- Vercel annonce [v0.dev](v0.dev)
+- Svelte annonce [runes](https://svelte.dev/blog/runes)
+
 ## Ordinateur
 
+- Bus
+- Carte graphique
+- Carte mère
+- Cyber sécurité
+- Echelle physique (neutron, atome, électron, transistor, circuit intégré, charges, binaire)
+- Ecran
+- Electronique
 - Histoire de l'informatique
-- [Prix](/docs/ordinateur/prix.md)
-- [Personnalités](/docs/ordinateur/personnalites.md)
-- Unix
+- Informatique quantique
 - Linux
 - MacOS
-- Open source
-- Echelle physique (neutron, atome, électron, transistor, circuit intégré, charges, binaire)
-- Electronique
 - Maths
-- Turing
-- Processeur
-- Carte mère
-- Carte graphique
-- SSD
 - OS
-- Ecran
-- Bus
+- Open source
+- Processeur
+- SSD
+- Turing
 - USB
+- Unix
 - [Bits et octets / Binaire](/docs/informatique/binaire.md)
-- Cyber sécurité
-- Informatique quantique
+- [Personnalités](/docs/ordinateur/personnalites.md)
+- [Prix](/docs/ordinateur/prix.md)
 
 ## Programmation
 
@@ -98,11 +151,11 @@
 
 ### Patrons de conception
 
-- Singleton
-- Factory
-- Builder
 - Adapter
+- Builder
+- Factory
 - MVC
+- Singleton
 
 ### Principes de programmation
 
@@ -114,8 +167,8 @@
 
 - Paradigmes de programmation
 - Programmation fonctionnelle
-- Programmation orientée objet
 - Programmation impérative
+- Programmation orientée objet
 
 ### Eléments
 
@@ -130,7 +183,7 @@
 - Architecture logicielle
 - Architecture matérielle
 
-### terminal
+### [terminal](/docs/programmation//terminal/terminal.md)
 
 - Bash
 - zsh
@@ -154,6 +207,11 @@
 - commitizen
 - git Flow
 - Husky
+
+## Serveurs
+
+- Nginx
+- Caddy
 
 ## Web3 et blockchain
 
@@ -202,13 +260,14 @@
 
 ### Base de données
 
-- Relaitionnel VS non relationnel
-- Prisma
-- SQL
-- PostgreSQL
-- Firebase
-- Subapase
 - ElasticSearch
+- Firebase
+- PostgreSQL
+- Prisma
+- Relaitionnel VS non relationnel
+- SQL
+- Subapase
+- UML
 
 ## Formats
 
@@ -217,6 +276,7 @@
 - json
 - XML
 - Latex
+- JSX
 
 ## Outils
 
@@ -247,7 +307,7 @@
 
 ## Multimédia
 
-- ffmpeg
+- [ffmpeg](https://ffmpeg.org/) : outil de conversion vidéo et audio
 - zotify
 
 ## Codecs
@@ -292,6 +352,8 @@ Core Audio est un framework de développement d'applications audio pour macOS et
 
 #### Remix
 
+### Preact
+
 #### Vue
 
 #### Astro
@@ -318,6 +380,7 @@ Core Audio est un framework de développement d'applications audio pour macOS et
 - Typescript
 - Turbopack
 - JSDoc
+- Axios
 
 #### Node
 
@@ -334,6 +397,7 @@ Core Audio est un framework de développement d'applications audio pour macOS et
 
 - CSS
 - Tailwind
+- CSS Modules / CSS-in-JS
 
 ### Creative coding
 
@@ -351,27 +415,29 @@ Core Audio est un framework de développement d'applications audio pour macOS et
 
 ## Backend
 
+- Bun
 - C
 - C++
-- Go
-- Rust
-- OCaml
-- Reason
-- PHP
-- Symfony
-- Python
-- Laravel
-- Django
-- Node.js
 - Deno
-- Bun
-- Typescript
+- Django
+- Go
 - GraphQL
-- Prisma
-- Postgres
-- Redis
+- [Java](/docs/backend/java.md)
+- Laravel
 - MongoDB
+- Node.js
+- OCaml
+- PHP
+- Postgres
+- Prisma
+- Python
 - REST
+- Reason
+- Redis
+- Rust
+- Strapi
+- Symfony
+- Typescript
 - WebSockets
 
 ## Mobile
@@ -381,16 +447,16 @@ Core Audio est un framework de développement d'applications audio pour macOS et
 
 ## IOT
 
-- Python
-- MQTT
-- Arduino
-- Raspberry Pi
-- Matter
-- Thread
-- Apple Home
 - API
-- Zapier
+- Apple Home
+- Arduino
+- MQTT
 - Make
+- Matter
+- Python
+- Raspberry Pi
+- Thread
+- Zapier
 
 ## Cloud
 
@@ -414,6 +480,12 @@ Core Audio est un framework de développement d'applications audio pour macOS et
 - Docusaurus
 - Next + thème
 - GitBook
+
+## MacOS
+
+- Alfred
+- Homebrew
+- Raycast
 
 ## Audio
 
