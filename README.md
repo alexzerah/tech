@@ -5,7 +5,6 @@
   - [Autres](#autres)
   - [Nouveaux usages](#nouveaux-usages)
   - [Actualités](#actualités)
-    - [récentes](#récentes)
   - [Ordinateur](#ordinateur)
   - [Programmation](#programmation)
     - [Algorithmes](#algorithmes)
@@ -109,14 +108,8 @@
 
 ## Actualités
 
-### récentes
-
-- Popularisation de [ChatGPT]([https://](https://chat.openai.com/)) et [Midjourney](https://www.midjourney.com/).
-- [Twitter](https://twitter.com/) est racheté et devient X.
-- Apple annonce Vision Pro
-- iPhone 15 pro Max Titanium
-- Vercel annonce [v0.dev](v0.dev)
-- Svelte annonce [runes](https://svelte.dev/blog/runes)
+- [Actualités - Histoire](/docs/actualites/actualites-histoire.md)
+- [Actualités récente](/docs/actualites/actualites-recentes.md)
 
 ## Ordinateur
 
