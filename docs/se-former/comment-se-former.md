@@ -12,7 +12,7 @@
     - [Actualités](#actualités)
       - [Keynote](#keynote)
       - [Domaines](#domaines)
-    - [Twitter / Xw](#twitter--xw)
+    - [Twitter / X](#twitter--x)
     - [Reddit](#reddit)
     - [Product Hunt](#product-hunt)
     - [Dev.to](#devto)
@@ -135,7 +135,7 @@
 - VR / AR
 - Informatique quantique
 
-### Twitter / Xw
+### Twitter / X
 
 - 🇬🇧 [Dan Abramov](https://twitter.com/dan_abramov)
 - 🇬🇧 [Kent C. Dodds](https://twitter.com/kentcdodds)
