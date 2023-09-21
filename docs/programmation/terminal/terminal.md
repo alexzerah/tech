@@ -12,7 +12,6 @@
     - [Zsh](#zsh)
     - [Fish](#fish)
 
-
 ## Sources
 
 - [jolicode - organiser son terminal](https://jolicode.com/blog/organiser-son-terminal-avec-des-workspaces#)
@@ -29,7 +28,7 @@
 
 ### ✨ zellij
 
-- [zellij]() : multiplexeur de terminal en Rust.
+- [zellij](https://zellij.dev/documentation/layouts.html) : multiplexeur de terminal en Rust.
 
 ## Editeurs de texte
 
